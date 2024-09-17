@@ -112,13 +112,9 @@ def shortest_path(source, target):
 
     # Keep looping until solution found
     while True:
-
         # If nothing left in frontier, then no path
-        
         if frontier.empty():
             raise Exception("no solution")
-            
-
         # Choose a node from the frontier        
         node = frontier.remove()
 
