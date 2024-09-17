@@ -1,4 +1,4 @@
-This basic project of IA is from cs50 AI with python from course of harvard university. 
+This basic project of IA is from cs50 AI with python a course of harvard university. 
 
 For run you have to read at shell: 
 
